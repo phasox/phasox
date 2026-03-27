@@ -1,53 +1,62 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1487060515678060554/1487214360303636690/ChatGPT_Image_Mar_24_2026_08_26_41_PM_1.png?ex=69c853ce&is=69c7024e&hm=4d60432da152fb400d6bfdb72eee9c410f6c5978d405e5b3a7f7109c510028b1" alt="Phasox Logo" width="140" />
+  <img src="./assets/phasox-rounded.png" alt="Phasox Logo" width="140" />
 
   # Phasox
 
-  **Made by PhaseDev**
+  ### Made by PhaseDev
 
-  Building BetterDiscord plugins, themes, Discord bots, and Phase projects.
+  **BetterDiscord Plugins • Themes • Discord Bots • Phase Projects**
 </div>
 
 ---
 
 ## About Phasox
 
-Phasox is a project by **PhaseDev** focused on creating cool and polished tools for Discord and beyond.
+**Phasox** is a project by **PhaseDev** focused on Discord and Phase-style projects.
 
-### What we make
+We make:
 - BetterDiscord plugins
 - BetterDiscord themes
 - Discord bots
-- Phasecord projects
-- PhaseCore related projects
+- Phase projects
+
+---
+
+## Current Status
+
+- Working on **PhaseCord**
+- Not sure if it will be released
 
 ---
 
 ## Links
 
-- **Main Website:** [phasox.surge.sh](https://phasox.surge.sh/)
-- **PhaseCore Website:** [phasox.surge.sh/Phasecore](https://phasox.surge.sh/Phasecore/)
-- **X / Twitter:** [@Phaseox](https://x.com/Phaseox)
+- 🌐 **Website:** [phasox.surge.sh](https://phasox.surge.sh/)
+- ⚡ **PhaseCore:** [phasox.surge.sh/Phasecore](https://phasox.surge.sh/Phasecore/)
+- 🐦 **X / Twitter:** [@Phaseox](https://x.com/Phaseox)
 
 ---
 
 ## Projects
 
-### BetterDiscord
-Custom plugins and themes made to improve the Discord experience.
+### BetterDiscord Plugins
+Custom plugins made to improve the Discord experience.
+
+### BetterDiscord Themes
+Themes designed with a polished style.
 
 ### Discord Bots
-Bot projects built with the Phase style.
+Custom bots built for utility, moderation, and Phase-style systems.
 
-### Phasecord
-A Phasox bot project and part of the Phase ecosystem.
+### PhaseCord
+A project currently in progress. Release is not confirmed.
 
 ---
 
-## Made By
+## Creator
 
 **PhaseDev**  
-Creating projects with the Phase style.
+Founder of **Phasox**
 
 ---
 
