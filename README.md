@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/phasox-rounded.png" alt="Phasox Logo" width="140" />
+  <img src="./assets/phasox.png" alt="Phasox Logo" width="140" />
 
   # Phasox
 
